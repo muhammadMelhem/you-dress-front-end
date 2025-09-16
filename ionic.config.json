@@ -1,0 +1,8 @@
+{
+  "name": "you-dress-front-end",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "2c034969"
+}
